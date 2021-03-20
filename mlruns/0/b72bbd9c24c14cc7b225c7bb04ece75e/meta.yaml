@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/INeuron/ML/Practice%20by/Practice%20with%20Krish/MLFlow/mlruns/0/b72bbd9c24c14cc7b225c7bb04ece75e/artifacts
+end_time: 1616208945787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b72bbd9c24c14cc7b225c7bb04ece75e
+run_uuid: b72bbd9c24c14cc7b225c7bb04ece75e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1616208945613
+status: 3
+tags: []
+user_id: MKailas
