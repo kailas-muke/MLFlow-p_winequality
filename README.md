@@ -18,7 +18,7 @@ For other values for alpha and l1_ratio
 
 **Add all folder by** git add . && git commit -m "   "
 
-git remote add origin <github respo url>
+git remote add origin {github respo url}
 
 **Create as main branch by** git branch -m main
 
